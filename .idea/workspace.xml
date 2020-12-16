@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4394457-4eb6-4833-a14c-ca7ab8cfa398" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1liMi0cf055z58GqSX9y4bLVa8x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="953" y="574" key="#Notifications" timestamp="1608076868113">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="953" y="574" key="#Notifications/62.0.2498.1440@62.0.2498.1440" timestamp="1608076868113" />
+    <state x="246" y="375" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608076421993">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="246" y="375" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.2498.1440@62.0.2498.1440" timestamp="1608076421993" />
+    <state x="835" y="452" width="550" height="398" key="Github.CreateGistDialog" timestamp="1608076853308">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="835" y="452" width="550" height="398" key="Github.CreateGistDialog/62.0.2498.1440@62.0.2498.1440" timestamp="1608076853308" />
+    <state x="1081" y="648" width="668" height="393" key="Github.ShareDialog" timestamp="1608077124899">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1081" y="648" width="668" height="393" key="Github.ShareDialog/62.0.2498.1440@62.0.2498.1440" timestamp="1608077124899" />
+    <state width="1537" height="395" key="GridCell.Tab.0.bottom" timestamp="1608076754956">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1537" height="395" key="GridCell.Tab.0.bottom/62.0.2498.1440@62.0.2498.1440" timestamp="1608076754956" />
+    <state width="1537" height="395" key="GridCell.Tab.0.center" timestamp="1608076754956">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1537" height="395" key="GridCell.Tab.0.center/62.0.2498.1440@62.0.2498.1440" timestamp="1608076754956" />
+    <state width="1537" height="395" key="GridCell.Tab.0.left" timestamp="1608076754956">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1537" height="395" key="GridCell.Tab.0.left/62.0.2498.1440@62.0.2498.1440" timestamp="1608076754956" />
+    <state width="1537" height="395" key="GridCell.Tab.0.right" timestamp="1608076754956">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1537" height="395" key="GridCell.Tab.0.right/62.0.2498.1440@62.0.2498.1440" timestamp="1608076754956" />
+    <state x="708" y="395" key="SettingsEditor" timestamp="1608077158032">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="708" y="395" key="SettingsEditor/62.0.2498.1440@62.0.2498.1440" timestamp="1608077158032" />
+    <state x="998" y="609" key="scopes" timestamp="1608076569756">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="998" y="609" key="scopes/62.0.2498.1440@62.0.2498.1440" timestamp="1608076569756" />
+  </component>
+</project>
