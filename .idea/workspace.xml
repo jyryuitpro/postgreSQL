@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4394457-4eb6-4833-a14c-ca7ab8cfa398" name="Default Changelist" comment="" />
+    <list default="true" id="b4394457-4eb6-4833-a14c-ca7ab8cfa398" name="Default Changelist" comment="07. 데이터 조회와 필터링 - 03. SELECT DISTINCT 문">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/577cd565-2bb1-4265-99d3-7c93a84bc9b0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/577cd565-2bb1-4265-99d3-7c93a84bc9b0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/577cd565-2bb1-4265-99d3-7c93a84bc9b0/storage_v2/_src_/database/dvdrental.tq3APg/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/577cd565-2bb1-4265-99d3-7c93a84bc9b0/storage_v2/_src_/database/dvdrental.tq3APg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="ProjectId" id="1liMi0cf055z58GqSX9y4bLVa8x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,50 +42,34 @@
   <component name="PropertiesComponent">
     <property name="DBE.Init.BalloonShown" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="WindowStateProjectService">
-    <state x="953" y="574" key="#Notifications" timestamp="1608076868113">
-      <screen x="62" y="0" width="2498" height="1440" />
-    </state>
-    <state x="953" y="574" key="#Notifications/62.0.2498.1440@62.0.2498.1440" timestamp="1608076868113" />
-    <state x="246" y="375" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608076421993">
-      <screen x="62" y="0" width="2498" height="1440" />
-    </state>
-    <state x="246" y="375" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.2498.1440@62.0.2498.1440" timestamp="1608076421993" />
-    <state x="835" y="452" width="550" height="398" key="Github.CreateGistDialog" timestamp="1608076853308">
-      <screen x="62" y="0" width="2498" height="1440" />
-    </state>
-    <state x="835" y="452" width="550" height="398" key="Github.CreateGistDialog/62.0.2498.1440@62.0.2498.1440" timestamp="1608076853308" />
-    <state x="1081" y="648" width="668" height="393" key="Github.ShareDialog" timestamp="1608077124899">
-      <screen x="62" y="0" width="2498" height="1440" />
-    </state>
-    <state x="1081" y="648" width="668" height="393" key="Github.ShareDialog/62.0.2498.1440@62.0.2498.1440" timestamp="1608077124899" />
-    <state width="1537" height="395" key="GridCell.Tab.0.bottom" timestamp="1608076754956">
-      <screen x="62" y="0" width="2498" height="1440" />
-    </state>
-    <state width="1537" height="395" key="GridCell.Tab.0.bottom/62.0.2498.1440@62.0.2498.1440" timestamp="1608076754956" />
-    <state width="1537" height="395" key="GridCell.Tab.0.center" timestamp="1608076754956">
-      <screen x="62" y="0" width="2498" height="1440" />
-    </state>
-    <state width="1537" height="395" key="GridCell.Tab.0.center/62.0.2498.1440@62.0.2498.1440" timestamp="1608076754956" />
-    <state width="1537" height="395" key="GridCell.Tab.0.left" timestamp="1608076754956">
-      <screen x="62" y="0" width="2498" height="1440" />
-    </state>
-    <state width="1537" height="395" key="GridCell.Tab.0.left/62.0.2498.1440@62.0.2498.1440" timestamp="1608076754956" />
-    <state width="1537" height="395" key="GridCell.Tab.0.right" timestamp="1608076754956">
-      <screen x="62" y="0" width="2498" height="1440" />
-    </state>
-    <state width="1537" height="395" key="GridCell.Tab.0.right/62.0.2498.1440@62.0.2498.1440" timestamp="1608076754956" />
-    <state x="708" y="395" key="SettingsEditor" timestamp="1608077158032">
-      <screen x="62" y="0" width="2498" height="1440" />
-    </state>
-    <state x="708" y="395" key="SettingsEditor/62.0.2498.1440@62.0.2498.1440" timestamp="1608077158032" />
-    <state x="998" y="609" key="scopes" timestamp="1608076569756">
-      <screen x="62" y="0" width="2498" height="1440" />
-    </state>
-    <state x="998" y="609" key="scopes/62.0.2498.1440@62.0.2498.1440" timestamp="1608076569756" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="05. 데이터 조회와 필터링 - 01. SELECT 문" />
+    <MESSAGE value="06. 데이터 조회와 필터링 - 02. ORDER BY 문" />
+    <MESSAGE value="07. 데이터 조회와 필터링 - 03. SELECT DISTINCT 문" />
+    <MESSAGE value="08. 데이터 조회와 필터링 - 04. WHERE 절" />
+    <MESSAGE value="09. 데이터 조회와 필터링 - 05. LIMIT 절" />
+    <MESSAGE value="10. 데이터 조회와 필터링 - 06. FETCH 절" />
+    <MESSAGE value="11. 데이터 조회와 필터링 - 07. IN 연산자" />
+    <MESSAGE value="12. 데이터 조회와 필터링 - 08. BETWEEN 연산자" />
+    <MESSAGE value="13. 데이터 조회와 필터링 - 09. LIKE 연산자" />
+    <MESSAGE value="14. 데이터 조회와 필터링 - 10. IS NULL 연산자" />
+    <option name="LAST_COMMIT_MESSAGE" value="14. 데이터 조회와 필터링 - 10. IS NULL 연산자" />
   </component>
 </project>
